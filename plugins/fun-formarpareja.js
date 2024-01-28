@@ -9,7 +9,7 @@ function handler(m, {groupMetadata}) {
     mentions: [a, b],
   });
 }
-handler.help = ['formarpareja'];
+handler.help = ['parejas'];
 handler.tags = ['main', 'fun'];
 handler.command = ['formarpareja', 'formarparejas'];
 handler.group = true;
